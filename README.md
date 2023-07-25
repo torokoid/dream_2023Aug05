@@ -121,7 +121,7 @@ width: 800px;
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2023/08/05 ドリームかわちプール関連メンバー暑気払い飲み会 !!!</marquee></span></h1>	
+<h1><span class="yellow"><marquee behavior="left">!!! 2023/08/05 ドリームかわちプール関連メンバー暑気払い飲み会 !!!</marquee></span></h1>	
 
 
 <p>小高さん主催の飲み会写真集です</p>
