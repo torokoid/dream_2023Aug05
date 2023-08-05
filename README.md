@@ -176,7 +176,19 @@ width: 800px;
 <a href="20230805_048.JPG" data-lightbox="abc"><img src="20230805_048.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230805_049.JPG" data-lightbox="abc"><img src="20230805_049.JPG" alt="サンプル画像" width="900" /></a>
 
+<p>以下動画集<br>最初は記録会の告知by瀧田コーチ</p>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X8X0q74A5AA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_3uep4WRQE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yPPZjYpq6qw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oYS1AqahQz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FvIuRIT-yWI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ApUZ397QwIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br><br><br><br><br><br><br><br><br>
 <!--流れ文字の挿入例
