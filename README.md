@@ -126,6 +126,15 @@ width: 800px;
 
 <p>小高さん主催の飲み会写真集です</p>
 
+<a href="20230805_057.JPG" data-lightbox="abc"><img src="20230805_057.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230805_056.JPG" data-lightbox="abc"><img src="20230805_056.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230805_055.JPG" data-lightbox="abc"><img src="20230805_055.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230805_054.JPG" data-lightbox="abc"><img src="20230805_054.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230805_053.JPG" data-lightbox="abc"><img src="20230805_053.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230805_052.JPG" data-lightbox="abc"><img src="20230805_052.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230805_051.JPG" data-lightbox="abc"><img src="20230805_051.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230805_050.JPG" data-lightbox="abc"><img src="20230805_050.JPG" alt="サンプル画像" width="900" /></a>
+
 <a href="20230805_001.JPG" data-lightbox="abc"><img src="20230805_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230805_002.JPG" data-lightbox="abc"><img src="20230805_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230805_003.JPG" data-lightbox="abc"><img src="20230805_003.JPG" alt="サンプル画像" width="900" /></a>
