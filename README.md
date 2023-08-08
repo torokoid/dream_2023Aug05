@@ -117,7 +117,7 @@ width: 800px;
 
 
 <!--QRコードの挿入例-->
-<p align="left"> <img src="20230805.png" alt="アクセス用QRコード" width="100">アクセス用QRコード&emsp;<a href="https://torokoid.github.io/suiei2023fukuoka/">日本水泳2023福岡リンク</a></p>
+<p align="left"> <img src="20230805.png" alt="アクセス用QRコード" width="100">アクセス用QRコード&emsp;<a href="https://torokoid.github.io/suiei2023fukuoka/"世界水泳2023福岡リンク</a></p>
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 <!--流れ文字の挿入例-->
